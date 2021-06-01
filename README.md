@@ -17,7 +17,7 @@ cd mutt-wizard
 sudo make install
 ```
 
-## Origianl README :
+## Original README :
 
 Get this great stuff without effort:
 
