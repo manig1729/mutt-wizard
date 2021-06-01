@@ -1,5 +1,9 @@
 # mutt-wizard
 
+Forked from Luke Smith at the time I installed this on my machine
+
+Origianl README :
+
 Get this great stuff without effort:
 
 - A full-featured and autoconfigured email client on the terminal with neomutt
