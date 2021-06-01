@@ -2,7 +2,22 @@
 
 Forked from Luke Smith at the time I installed this on my machine
 
-Origianl README :
+Dependencies
+- `neomutt`
+- `curl`
+- `isync`
+- `msmtp`
+- `pass` and `gpg`
+
+To install :
+
+```bash
+git clone https://github.com/manig1729/mutt-wizard
+cd mutt-wizard
+sudo make install
+```
+
+## Origianl README :
 
 Get this great stuff without effort:
 
